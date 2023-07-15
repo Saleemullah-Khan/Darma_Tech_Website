@@ -1,0 +1,11 @@
+:root{
+    --body_background: #F6F6EB;
+   
+}
+[data-theme="dark"]{
+    --body_background:#F3DDF2;
+   
+}
+*{
+    transition: all 0.3s ease-in-out;
+}
